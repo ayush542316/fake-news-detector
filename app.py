@@ -1,7 +1,7 @@
 import streamlit as st
 import google.generativeai as genai
 
-genai.configure(api_key="AQ.Ab8RN6IVQFOkaIT4HZjVx6kmVNE8t1LUbgsdlyAg6TEpf0NwIA")
+AQ.Ab8RN6LR6oHagQ3JShezhNrHeLmmz--xbyrvAKtpaDgRZVSZ8Q
 
 st.set_page_config(page_title="Fake News Detector", page_icon="🔍", layout="centered")
 st.title("🔍 Fake News Detector")
